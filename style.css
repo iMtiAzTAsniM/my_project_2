@@ -9,7 +9,6 @@ body{
     }
   .Snikers{
       color: brown;
-      
       font-variant:small-caps;
   }
   .half-width{
@@ -55,4 +54,38 @@ h2{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.half-width0{
+    width:40%;
+    float:unset;  
+    margin: 25px;
+    padding-top: 30%;
+}
+.half-width4{
+  margin: 25px; 
+  float:left;
+  width: 28%;
+  box-shadow: 2px 0px 20px 2px rgb(244, 96, 212);
+  padding: 10px 5px 18px 10px ;
+  border-radius: 15px;
+}
+.half-width01{
+      
+    margin: 25px;
+    padding-top: 45%;
+    color: orangered;
+    font-variant:small-caps;
+}
+.image{
+   float:none;
+   width:170px;
+   height:170px;
+   margin-right:15px;
+   box-shadow: 2px 0px 20px 2px rgb(244, 96, 212);
+   padding: 10px 5px 18px 10px ;
+}
+ .write{
+    float:inline-end;
+   margin-right:15px;
+   box-shadow: 2px 0px 20px 2px rgb(244, 96, 212);
 }
