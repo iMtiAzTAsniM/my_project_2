@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.topnav input[type=text] 
+    {
+        overflow: hidden;
+        background-color: #e9e9e9;
+    }
+  .Snikers{
+      color: brown;
+      
+      font-variant:small-caps;
+  }
+  .half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width1{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 8%;
+}
+.topnav{
+    font-weight: bolder;
+    padding: 7%;
+}
+.half-width2{
+    width:40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+}
+.Shoes{
+    padding: 0px 9% 0px ;
+    box-shadow: 2px 1px 20px rgb(244, 96, 212);
+    border-radius: 15px;
+}
+.half-width3{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h2{
+    color: red;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
